@@ -4,4 +4,3 @@ This repository contains a collection of sample configurations and best practice
 
 ## Usage
 Each service folder contains configuration files that can be used to set up AWS resources.
-For example, to set up EC2 instances, navigate to the ec2-setup folder and follow the instructions there.
